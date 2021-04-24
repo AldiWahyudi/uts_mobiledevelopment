@@ -1,0 +1,2 @@
+com/aldi/catatanpenjualan/BuildConfig.java
+ com.aldi.catatanpenjualan.BuildConfig
